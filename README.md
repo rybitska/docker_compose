@@ -1,6 +1,6 @@
 # docker_compose
 
-demo app - for docker-compose crash course
+demo app - for docker-compose 
 
 With Docker
 
